@@ -2,8 +2,8 @@
   <h1> 🚀 <br/>[Your Project Name] : Custom Profile Architect</h1>
   <p>An automated tool to build high-impact GitHub READMEs in seconds.</p>
   
-  <a href="https://github.com/[Your-GitHub-Username]" target="_blank">
-    <img src="https://img.shields.io/badge/Maintained%20by-[YourName]-blue?style=for-the-badge&logo=github" />
+  <a href="https://github.com/Akash-Rathod28" target="_blank">
+    <img src="https://img.shields.io/badge/Maintained%20by-Akash-Rathod-blue?style=for-the-badge&logo=github" />
   </a>
   <img src="https://img.shields.io/github/license/[]/[Your-Repo-Name]?style=for-the-badge" />
   <img src="https://img.shields.io/github/stars/[Your-GitHub-Username]/[Your-Repo-Name]?style=for-the-badge" />
