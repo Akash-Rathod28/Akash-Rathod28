@@ -21,13 +21,13 @@
 
 ## 🧠 LeetCode Stats
 
-![](https://leetcard.jacoblin.cool/your-akashrathod16?theme=dark&font=Karma&ext=heatmap)
+![](https://leetcard.jacoblin.cool/akashrathod16?theme=dark&font=Karma&ext=heatmap)
 
 ---
 
 ## 🔗 Connect With Me
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/your-akashrathod16/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/akashrathod16/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akash-rathod-909210346/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_.akash._rathod06)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akash.rathod162844@gmail.com)
@@ -55,7 +55,7 @@
 - Covers arrays, linked lists, recursion, and more  
 - Focus on optimized and clean solutions  
 
-
+---
 
 ## 📊 GitHub Stats
 
