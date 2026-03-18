@@ -12,6 +12,15 @@
 
 ---
 
+## 🔗 Connect With Me
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?logo=leetcode)](https://leetcode.com/u/akashrathod16/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akash-rathod-909210346/)  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_.akash._rathod06)  
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akash.rathod162844@gmail.com)
+
+---
+
 ## 💫 About Me
 
 I am a Python developer passionate about solving problems with **Data Structures & Algorithms** and building **real-world projects**.
@@ -21,14 +30,6 @@ I am a Python developer passionate about solving problems with **Data Structures
 - 🚀 Developing projects for **practical experience**  
 - 🔍 Interested in **Backend Development**  
 - 📈 Continuously learning and improving
-
----
-
-## 🧠 LeetCode Profile
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?logo=leetcode)](https://leetcode.com/u/akashrathod16/)
-
-![](https://leetcard.jacoblin.cool/akashrathod16?theme=dark&font=Karma&ext=heatmap)
 
 ---
 
@@ -56,14 +57,6 @@ Python • C • MySQL • MongoDB • Git • GitHub • VS Code
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Akash-Rathod28&theme=tokyonight&hide_border=true)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Akash-Rathod28&layout=compact&theme=tokyonight&hide_border=true)
-
----
-
-## 🔗 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akash-rathod-909210346/)  
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_.akash._rathod06)  
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akash.rathod162844@gmail.com)  
 
 ---
 
