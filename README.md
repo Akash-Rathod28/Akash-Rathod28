@@ -11,7 +11,7 @@
 ## About Me
 
 I’m a Python developer focused on building strong problem-solving skills through Data Structures & Algorithms.  
-I actively practice on LeetCode and work on projects to improve real-world development skills.
+I actively practice on LeetCode and build projects to improve real-world development skills.
 
 - Solving DSA problems regularly  
 - Writing clean and efficient code  
@@ -40,7 +40,7 @@ Python • C • MySQL • MongoDB • Git • GitHub • VS Code
 https://github.com/Akash-Rathod28/DSA-With-Python  
 
 - Collection of solved DSA problems  
-- Covers core topics like arrays, linked lists, recursion  
+- Covers arrays, linked lists, recursion  
 - Focus on optimized approaches  
 
 ---
@@ -48,6 +48,9 @@ https://github.com/Akash-Rathod28/DSA-With-Python
 ## GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=Akash-Rathod28&hide_border=true)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=Akash-Rathod28&hide_border=true)
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Akash-Rathod28&layout=compact&hide_border=true)
 
 ---
