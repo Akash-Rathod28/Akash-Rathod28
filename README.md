@@ -1,68 +1,63 @@
-# 👋 Hi, I'm Akash Rathod
+# Hi, I'm Akash Rathod 👋
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=22C55E&center=true&vCenter=true&width=650&lines=Python+Developer;DSA+Enthusiast;Problem+Solver" />
-</p>
+### Python Developer | DSA Enthusiast
 
-<p align="center">
+<p align="left">
   <i>"The best thing about a boolean is even if you are wrong, you are only off by a bit."</i>
 </p>
 
 ---
 
-## 💫 About Me
+## About Me
 
-- 💻 Passionate about **Python Development** and **Data Structures & Algorithms**
-- 🧠 Regularly solving problems on **LeetCode**
-- 📚 Focused on writing **clean & optimized code**
-- 🚀 Building projects to gain real-world experience
-- 🔍 Interested in **Software Development & Backend Engineering**
+I’m a Python developer focused on building strong problem-solving skills through Data Structures & Algorithms.  
+I actively practice on LeetCode and work on projects to improve real-world development skills.
 
----
-
-## 🧠 LeetCode Stats
-
-![](https://leetcard.jacoblin.cool/akashrathod16?theme=light&font=Karma&ext=heatmap)
+- Solving DSA problems regularly  
+- Writing clean and efficient code  
+- Interested in backend development  
+- Continuously learning and improving  
 
 ---
 
-## 🔗 Connect With Me
+## LeetCode
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/akashrathod16/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akash-rathod-909210346/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_.akash._rathod06)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akash.rathod162844@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?logo=leetcode)](https://leetcode.com/u/akashrathod16/)
 
----
-
-## 💻 Tech Stack
-
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![](https://leetcard.jacoblin.cool/akashrathod16?theme=light&font=Karma)
 
 ---
 
-## 📌 Featured Project
+## Tech Stack
 
-### 🔹 DSA With Python  
-👉 https://github.com/Akash-Rathod28/DSA-With-Python  
-
-- Solved multiple DSA problems  
-- Covers arrays, linked lists, recursion  
-- Focus on optimized solutions  
+Python • C • MySQL • MongoDB • Git • GitHub • VS Code
 
 ---
 
-## 📊 GitHub Stats
+## Featured Work
 
-![](https://github-readme-stats.vercel.app/api?username=Akash-Rathod28&theme=default&hide_border=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=Akash-Rathod28&hide_border=true)
+### DSA With Python  
+https://github.com/Akash-Rathod28/DSA-With-Python  
+
+- Collection of solved DSA problems  
+- Covers core topics like arrays, linked lists, recursion  
+- Focus on optimized approaches  
+
+---
+
+## GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=Akash-Rathod28&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Akash-Rathod28&layout=compact&hide_border=true)
 
 ---
 
-⭐ *If you like my work, consider giving a star to my repositories!*
+## Connect
+
+- LinkedIn: https://www.linkedin.com/in/akash-rathod-909210346/  
+- Instagram: https://www.instagram.com/_.akash._rathod06  
+- Email: akash.rathod162844@gmail.com  
+
+---
+
+⭐ If you find my work useful, consider giving a star.
