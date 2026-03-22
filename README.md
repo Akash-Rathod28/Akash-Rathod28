@@ -64,11 +64,5 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Akash-Rathod28&layout=compact&hide_border=true)
 
 ---
-## 📊 GitHub Stats
 
-![Akash's GitHub stats](https://github-readme-stats.vercel.app/api?username=Akash-Rathod28&show_icons=true)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=Akash-Rathod28)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Akash-Rathod28&layout=compact)
 ⭐ *If you like my work, consider giving a star to my repositories!*
