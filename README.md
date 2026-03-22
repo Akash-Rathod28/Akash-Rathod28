@@ -64,5 +64,8 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Akash-Rathod28&layout=compact&hide_border=true)
 
 ---
+## 📈 Activity Overview
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Akash-Rathod28&theme=react-dark)
 
 ⭐ *If you like my work, consider giving a star to my repositories!*
