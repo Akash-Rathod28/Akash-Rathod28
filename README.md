@@ -3,7 +3,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=22C55E&center=true&vCenter=true&width=650&lines=Python+Developer;DSA+Enthusiast;Problem+Solver" />
 </p>
-
+ 
 <p align="center">
   <i>"The best thing about a boolean is even if you are wrong, you are only off by a bit."</i>
 </p>
