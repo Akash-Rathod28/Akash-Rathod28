@@ -49,7 +49,7 @@
 ## 📌 Featured Project
 
 ### 🔹 DSA With Python  
-👉 https://github.com/Akash-Rathod28/DSA-With-Python  
+👉 https://github.com/Akash-Rathod28/DSA-With-Python 
 
 - Solved multiple DSA problems  
 - Covers arrays, linked lists, recursion  
