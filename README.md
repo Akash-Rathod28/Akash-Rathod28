@@ -10,7 +10,7 @@
 
 <p align="center">
   <code>📍 Bengaluru, Karnataka, India</code> &nbsp;&bull;&nbsp; 
-  <code>🎓 Bangalore University</code> &nbsp;&bull;&nbsp; 
+  <code>🎓 BCA @ Bangalore University</code> &nbsp;&bull;&nbsp; 
   <code>🚀 Production-Ready Scalability</code>
 </p>
 
@@ -38,7 +38,7 @@
 
 ---
 
-## 🛠️️ CORE TECHNICAL ARSENAL
+## 🛠️ CORE TECHNICAL ARSENAL
 
 | Category | Technology Stack & Frameworks |
 | :--- | :--- |
