@@ -1,16 +1,18 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,30&height=220&section=header&text=AKASH%20RATHOD&fontSize=50&fontColor=2DD4BF&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20|%20Backend%20&%20AI%20Systems%20Architect&descSize=16&descColor=94A3B8" />
+  <img src="https://github.com/Akash-Rathod28/Akash-Rathod28/raw/9fc25fd17a41c6bd681c42468a6c9dddbf15d9b4/akash.jpeg" alt="Akash Rathod" width="160" height="160" style="border-radius: 50%; border: 4px solid #2DD4BF; box-shadow: 0 0 25px rgba(45,212,191,0.5); object-fit: cover; margin-bottom: 20px;" />
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0.1,10,20,30,40&customColorList=15,23,42,15,23&height=180&section=header&text=AKASH%20RATHOD&fontSize=45&fontColor=FFFFFF&animation=fadeIn&fontAlignY=50&desc=Software%20Developer%20|%20Backend%20&%20AI%20Systems%20Architect&descSize=15&descColor=2DD4BF" />
 
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Python+%26+FastAPI+Microservices;High-Performance+PostgreSQL+Architectures;Sub-Second+FAISS+Vector+RAG+Pipelines;DSA+Problem+Solver+%7C+LeetCode+Grinder" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2DD4BF&center=true&vCenter=true&width=750&lines=Python+%26+FastAPI+Microservices;High-Performance+PostgreSQL+Architectures;Sub-Second+FAISS+Vector+RAG+Pipelines;DSA+Problem+Solver+%7C+LeetCode+Grinder" />
 </p>
 
 <p align="center">
   <code>📍 Bengaluru, Karnataka, India</code> &nbsp;&bull;&nbsp; 
-  <code>🎓 BCA @ Bangalore University</code> &nbsp;&bull;&nbsp; 
+  <code>🎓  @ Bangalore University</code> &nbsp;&bull;&nbsp; 
   <code>🚀 Production-Ready Scalability</code>
 </p>
 
@@ -29,7 +31,7 @@
       </a>
     </td>
     <td align="center" width="33%">
-      <a href="mailto:akash.rathod0616@gmail.com">
+      <a href="mailto:akash.rathod162844@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-Direct_Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
       </a>
     </td>
@@ -76,7 +78,11 @@
 ## 🐍 CONTRIBUTION SNAKE GAME
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Akash-Rathod28/Akash-Rathod28/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Akash-Rathod28/Akash-Rathod28/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Akash-Rathod28/Akash-Rathod28/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Akash-Rathod28/Akash-Rathod28/output/github-contribution-grid-snake.svg">
+  </picture>
 </p>
 
 ---
