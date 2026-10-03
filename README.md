@@ -29,7 +29,7 @@
       </a>
     </td>
     <td align="center" width="33%">
-      <a href="mailto:akash.rathod162844@gmail.com">
+      <a href="mailto:akash.rathod0616@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-Direct_Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
       </a>
     </td>
@@ -84,7 +84,7 @@
 ## 📈 ANALYTICS & CODE ACTIVITY
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/akashrathod16?theme=dark&font=Karma&ext=heatmap" width="100%" />
+  <img src="https://leetcard.jacoblin.cool/akashrathod16?theme=dark&font=Karma&ext=heatmap" width="50%" />
 </p>
 
 <p align="center">
